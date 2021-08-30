@@ -1,7 +1,7 @@
 # What is Markdown
 It is a way to customize you webpage. Customizations will allow you to change anything you want on your webpage with just a few clicks. Mardown just communicats with your webpage to ge the perfect style that you were looking into creating.
 
-#Git hub pages
+# Git hub pages
 1. Plenty of options to look through when making your page, like changing the theme and different styles with your page.
 2. makes it a simple proccess when making your webpage.
 
