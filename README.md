@@ -12,8 +12,6 @@ Hello. I’m Scott! Here is the link to my github portfolio. [Click Here!!](dsmu
 - [Reading 7]
 - [Reading 8]
 
-## This is a Heading 2
-### This is a Heading 3
 
 
 # Growth Mindset
