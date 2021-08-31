@@ -1,7 +1,7 @@
-Intro
+# Intro
 Hello. I’m Scott! Here is the link to my github portfolio. [Click Here!!](dsmul.github.io/reading-notes/)
 
-Code 102 Reading
+## Code 102 Reading
 
 - [Reading 1](markdown.md) MarkDown
 - [Reading 2](coderscomputer.md) Coder's Computer
