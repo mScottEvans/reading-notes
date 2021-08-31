@@ -1,5 +1,5 @@
 Intro
-Hello. I’m Scott! Here is the link to my github portfolio. 
+Hello. I’m Scott! Here is the link to my github portfolio. [Click Here!!](dsmul.github.io/reading-notes/)
 
 Code 102 Reading
 
