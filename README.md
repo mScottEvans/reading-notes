@@ -1,5 +1,5 @@
 Intro
-Hello. I’m Scott, a photographer in Arkansas. Here is the link to my github portfolio. 
+Hello. I’m Scott! Here is the link to my github portfolio. 
 
 Code 102 Reading
 
