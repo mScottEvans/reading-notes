@@ -3,9 +3,9 @@ Hello. I’m Scott! Here is the link to my github portfolio.
 
 Code 102 Reading
 
-- [Reading 1](README.md)
-- [Reading 2](markdown.md)
-- [Reading 3](repersent.md)
+- [Reading 1](markdown.md) MarkDown
+- [Reading 2](coderscomputer.md) Coder's Computer
+- [Reading 3](revisions.md) Revisions
 - [Reading 4]
 - [Reading 5]
 - [Reading 6]
