@@ -1,9 +1,11 @@
 # Revisions
 
+## GIT and GITHUB
+Git is basically where the data get stored, and in GitHub that is where you webpage does it's connection to th data base so other can see your work as well.
 
-  ## Remotes
-In order to collaborate on Git projects, you must interact with remote repositories, versions of a project residing online or on a network. You can work with multiple repositories, for which you can have read/write or read-only privileges. Teams can use remote repositories to push information to and pull data from
-
+## Repositories
+Repository is a collection of files. You can find them online or on the computer. To get on your repositories through VS you can bring up their files from Github to the terminal and then VS code. You need to clone their key in the repository from github and type out: git clone (ssh link here). This is done in the terminal file. Then all your files from GitHub. then you'll be able to access the files in Vs code.
 
 
 [Back To README <===](README.md)
+
