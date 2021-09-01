@@ -19,3 +19,6 @@ An internal style sheet may be used if one single HTML page has a unique style. 
 
 ### Inline CSS
 An inline style may be used to apply a unique style for a single element. To use inline styles, add the style attribute to the relevant element. The style attribute can contain any CSS property.
+
+
+[Back To README <===](README.md)
