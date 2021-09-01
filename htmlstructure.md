@@ -13,7 +13,7 @@
   Example: You can use the <h1>This is a header</h1>
   This is also organized a certain way so its read able 
 
-  <!DOCTYPE html>
+
 <html>
   <head>
     <meta charset="utf-8">
@@ -21,7 +21,7 @@
   </head>
   <body>
     <img src="This is a image>
-    
+
     <p>This is my paragraph</p>
 
   </body>
