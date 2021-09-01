@@ -8,7 +8,7 @@ Hello. I’m Scott! Here is the link to my github portfolio. [Click Here!!](dsmu
 - [Reading 3](revisions.md) Revisions
 - [Reading 4](htmlstructure.md) HTML Structure
 - [Reading 5](css.md) What is CSS?
-- [Reading 6]
+- [Reading 6](javascript.md) JavaScript
 - [Reading 7]
 - [Reading 8]
 
@@ -19,7 +19,7 @@ A person that has a growth mindset is willing to complete the task even if there
 
 - View challenges as opportunities.
 - Try different learning tactics.
-- Acknowledge and embrace imperfections.  
+- Acknowledge and embrace imperfections.
 
 
 
