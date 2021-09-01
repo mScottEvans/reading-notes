@@ -7,7 +7,7 @@ Hello. I’m Scott! Here is the link to my github portfolio. [Click Here!!](dsmu
 - [Reading 2](coderscomputer.md) Coder's Computer
 - [Reading 3](revisions.md) Revisions
 - [Reading 4](htmlstructure.md) HTML Structure
-- [Reading 5]
+- [Reading 5](css.md) What is CSS?
 - [Reading 6]
 - [Reading 7]
 - [Reading 8]
