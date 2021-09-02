@@ -9,7 +9,7 @@ Hello. I’m Scott! Here is the link to my github portfolio. [Click Here!!](dsmu
 - [Reading 4](htmlstructure.md) HTML Structure
 - [Reading 5](css.md) What is CSS?
 - [Reading 6](javascript.md) JavaScript
-- [Reading 7]
+- [Reading 7](programmingjs.md) Programming with JS
 - [Reading 8]
 
 
