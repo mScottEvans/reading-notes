@@ -8,13 +8,13 @@ The <color> CSS data type represents a color. A <color> may also include an alph
 
 
 
-Chapter 12: “T” (pp.264-299)
-The <summary> tag in HTML is used to define a summary for the <details> element. 
+Chapter 12: “Text” (pp.264-299)
+The summary tag in HTML is used to define a summary for the  element. 
 
-The <summary> element is used along with the <details> element and provides a summary visible to the user.
-When the summary is clicked by the user, the content placed inside the <details> element becomes visible which was previously hidden.
-The <summary> tag was added in HTML 5.
-The <summary> tag requires both starting and ending tag.
+The element is used along with the element and provides a summary visible to the user.
+When the summary is clicked by the user, the content placed inside the element becomes visible which was previously hidden.
+The summary tag was added in HTML 5.
+The summary tag requires both starting and ending tag.
 
 
 
