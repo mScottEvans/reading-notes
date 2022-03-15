@@ -15,7 +15,7 @@ Hello. I’m Scott! Here is the link to my github portfolio. [Click Here!!](dsmu
 ## Code201 Readings
 
 - [Reading 1](./201/class01.md)
-- [Reading 2](./201/class01.md)
+- [Reading 2](./201/class02.md)
 - [Reading 3](./201/class01.md)
 - [Reading 4](./201/class01.md)
 - [Reading 5](./201/class01.md)
