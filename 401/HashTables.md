@@ -1,0 +1,4 @@
+Hash tables are data structures that associate specific keys to corresponding values. These tables are typically implemented with an associative array to store the data. Moreover, they use a hash function to compute at which point of the array the data should be stored (the index).
+So, we can understand a hash table as a key-value lookup. Thus, given a key associated with a value (data), we can recover the corresponding value through a quick lookup on the table.
+
+For instance, we can associate people’s names with their personal information with a hash table. In this way, the people’s names are our raw keys. A hash function process these raw keys to determine their corresponding indexes in the hash table, providing direct access to the personal information.
