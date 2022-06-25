@@ -10,3 +10,4 @@ onBindViewHolder(): RecyclerView calls this method to associate a ViewHolder wit
 getItemCount(): RecyclerView calls this method to get the size of the data set. For example, in an address book app, this might be the total number of addresses. RecyclerView uses this to determine when there are no more items that can be displayed.
 
 Here's a typical example of a simple adapter with a nested ViewHolder that displays a list of data. In this case, the RecyclerView displays a simple list of text elements. The adapter is passed an array of strings, containing the text for the ViewHolder elements.
+
